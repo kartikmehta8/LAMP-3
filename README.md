@@ -25,7 +25,7 @@ The main page of the application where users can register. It includes a form fo
 ### Display Page (`display.php`)
 This page displays all registered users and their images in a table format.
 
-![Display Page](images/registration.png)
+![Display Page](images/display.png)
 
 ### Operations (`operations.php`)
 A PHP script that includes functions for handling form input fields and fetching images from the database.
